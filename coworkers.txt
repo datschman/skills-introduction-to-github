@@ -2,3 +2,4 @@ Sarah - Marketing
 Stefan - Sales
 Magalie - Facility Management
 Horst - Controlling
+Edit file within Github. 
